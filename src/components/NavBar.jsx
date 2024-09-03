@@ -156,7 +156,7 @@ function NavBar() {
             <Phone
               size={32}
               color="#336AEA"
-              className="group-hover:fill-white group-hover:stroke-white"
+              className="group-hover:fill-white group-hover:stroke-white hidden lg:block"
             />
           </span>
           <span className="group-hover:text-white">Contact us</span>
