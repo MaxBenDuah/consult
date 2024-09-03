@@ -29,10 +29,7 @@ function WhyUs() {
           </p>
           <div className="flex justify-center">
             <div className="flex space-x-3">
-              <img
-                src="https://demo.sandamedia.net/sotech/wp-content/uploads/2024/05/light-1.png"
-                className="w-8 h-8"
-              />
+              <img src="/light-1.png" className="w-8 h-8" />
               <p className="font-semibold text-2xl text-center lg:text-start">
                 For Your Specific Industry We Have Smart Idea For Business goal.
               </p>

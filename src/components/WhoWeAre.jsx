@@ -7,13 +7,13 @@ function WhoWeAre() {
         <div className="flex flex-col justify-center space-y-6">
           <div className="md:flex md:justify-center overflow-hidden">
             <img
-              src="https://demo.sandamedia.net/sotech/wp-content/uploads/2024/05/image-banner-home11.webp"
+              src="/whoweare-1.webp"
               className="w-full md:w-3/4 rounded-xl hover:scale-110 transition-all duration-300 ease-in"
             />
           </div>
           <div className="md:absolute md:top-12 md:right-[-8rem] lg:left-[20rem] xl:left-[45rem] border border-[#336AEA] rounded-lg md:border-none xl:hidden">
             <img
-              src="https://demo.sandamedia.net/sotech/wp-content/uploads/2024/05/image-banner-home12.webp"
+              src="/image-banner-home12.webp"
               className="w-full md:w-3/4 lg:w-[12rem] xl:w-[22rem]"
             />
           </div>

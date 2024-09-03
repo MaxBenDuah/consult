@@ -49,10 +49,7 @@ function Testimonial() {
                 </div>
                 <div className="flex justify-center mt-10">
                   <div className="block w-16 h-16 rounded-full overflow-hidden group-hover:border-2 group-hover:border-[#336AEA]">
-                    <img
-                      src="https://demo.sandamedia.net/sotech/wp-content/uploads/2024/05/image-5-110x110.webp"
-                      className="rounded-box"
-                    />
+                    <img src="/testimonial-img.webp" className="rounded-box" />
                   </div>
                 </div>
                 <div className="flex flex-col space-y-2 text-center mt-10">

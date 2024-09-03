@@ -2,26 +2,22 @@ import { ArrowRight } from "@phosphor-icons/react";
 
 const projects = [
   {
-    image:
-      "https://demo.sandamedia.net/sotech/wp-content/uploads/2023/09/portfolio-4-450x600.webp",
+    image: "/project-1.webp",
     title: "Warranty Management",
     subTitle: "Seo Marketing",
   },
   {
-    image:
-      "https://demo.sandamedia.net/sotech/wp-content/uploads/2024/05/image-16-450x600.webp",
+    image: "/project-2.webp",
     title: "Internal Networking",
     subTitle: "Home making",
   },
   {
-    image:
-      "https://demo.sandamedia.net/sotech/wp-content/uploads/2023/11/service-single-image1-450x600.webp",
+    image: "/project-3.webp",
     title: "Property Simplified",
     subTitle: "Home making",
   },
   {
-    image:
-      "https://demo.sandamedia.net/sotech/wp-content/uploads/2023/09/project-10-450x600.webp",
+    image: "/project-4.webp",
     title: "Data Management",
     subTitle: "Home making",
   },
