@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* background: teal; */
+}
+
+.tooltip {
+  clip-path: polygon(50% 100%, 0 0, 100% 0);
+}
